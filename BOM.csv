@@ -1,0 +1,26 @@
+Component,Model/Specification,Qty,Unit Cost,Total Cost,Supplier,Notes
+Peltier Module,TEC1-12706 (12V 6A),1-2,$8-12,$15-24,AliExpress/Amazon,Core cooling element
+Power Supply,12V/15A Switching PSU,1,$25-40,$25-40,Amazon/Newegg,"Compact, efficient"
+Heatsink + Fan (Hot Side),CPU Cooler 100x100mm,1,$20-35,$20-35,Amazon/Newegg,"Critical for performance"
+Heatsink (Cold Side),60x60x20mm Aluminum,1,$8-12,$8-12,AliExpress/Amazon,"Distributes cooling"
+Thermal Paste,Arctic Silver 5 or equivalent,1,$5-8,$5-8,Amazon/Local Tech Store,"1-3mm per interface"
+Insulation Foam,Polystyrene Foam 5cm thick,1,$10-15,$10-15,Hardware Store,"Can cut to size"
+Temperature Controller,W1209 Digital Thermostat,1,$5-8,$5-8,AliExpress,(Optional) Auto control
+Fuse,10A Fast-Blow Fuse,2,$1-2,$2-4,Electronics Supply,Safety protection
+Toggle Switch,20A Rated Toggle Switch,1,$3-5,$3-5,Electronics Supply,Manual on/off
+Electrical Wire,14 AWG Multi-strand,1m,$2-3,$2-3,Electronics Supply,"Main power distribution"
+Connectors,Crimp Terminals + Housing,1 pack,$3-5,$3-5,Electronics Supply,"Secure connections"
+Thermal Adhesive,High-Temp Thermal Tape,1,$5-8,$5-8,Amazon,"Secures components"
+Vibration Dampeners,Rubber Pads,1 set,$2-3,$2-3,Amazon,"Reduces noise"
+Arduino Nano,ATmega328P Microcontroller,1,$5-10,$5-10,AliExpress,(Optional) For PWM control
+DS18B20 Sensor,Digital Temperature Sensor,1,$2-4,$2-4,AliExpress,(Optional) Temperature monitoring
+MOSFET,IRF520N Logic-Level MOSFET,1,$2-4,$2-4,Electronics Supply,(Optional) PWM switching
+Resistors,10kΩ Pull-up (1/4W),2,$0.50-1,$1-2,Electronics Supply,(Optional) For sensor circuit
+Capacitors,100µF 16V Electrolytic,2,$0.50-1,$1-2,Electronics Supply,(Optional) Filtering
+LCD Display,16x2 Blue LCD,1,$3-5,$3-5,AliExpress,(Optional) Status display
+Miscellaneous,Solder/Flux/Cable ties,1 set,$5-10,$5-10,Electronics Supply,"Assembly supplies"
+,,,,
+VARIANT SUMMARY:,,,
+Basic Setup (Minimal),Single TEC + Simple Switch,,$70-120,
+Standard Setup (Recommended),Dual TEC + Temperature Controller,,$120-180,
+Advanced Setup (High-Performance),4-6 TEC + Full Control + Water Cooling,,$300-500+,
